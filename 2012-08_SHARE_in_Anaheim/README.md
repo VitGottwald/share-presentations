@@ -8,6 +8,14 @@ We’ll show an example of a very simple recovery routine (ESTAE) and we’ll ex
 
 This session is targeted primarily towards assembler programmers but it will also provide a refresher of z/OS ABEND processing and recovery concepts in general.
 
+# August 9, 2012
+
+## [Making Assembler Cool Again with z/OS UNIX](Assembler_Cool_Again_handout.pdf)
+
+Do you have a great product or application written in assembler? Would you like to access it from z/OS UNIX? Or would you just like to learn more about doing this?
+
+In this session we will try to clear up the myths surrounding the relationship between MVS and z/OS UNIX. We will show you a simple assembler program running under z/OS UNIX and we’ll discuss how things differ in this environment compared to good old MVS batch and TSO. And if you come loaded with questions we’ll be happy to help answer them. After attending this session you’ll feel more comfortable about assembler programming in the z/OS UNIX world and you’ll understand the cool things you can do with it. This session will focus on assembler. No Java, no C++, JUST assembler!
+
 # August 8, 2012
 
 ## [z/OS UNIX for all](Anaheim_Unix_for_all.pdf)
