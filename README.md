@@ -1,2 +1,2 @@
 # share-presentations
-Presentations I gave at [SHARE](www.share.org) conferences
+Presentations I gave at [SHARE](http://www.share.org) conferences
