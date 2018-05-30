@@ -1,3 +1,13 @@
+# August 10, 2012
+
+## [When Things Go Wrong: Abends in Your Assembler Program and How You Can Recover From Them](Abend_Recovery_Anaheim_2012_08_10.pdf)
+
+In this session we will explain what an ABEND is, what z/OS does when an ABEND occurs, and will discuss techniques your assembler routines can use to deal with ABENDs or even fully recover from them.
+
+We’ll show an example of a very simple recovery routine (ESTAE) and we’ll explain important concepts, rules and parts of the Recovery Termination Manager (RTM) such as PIC, FLIH, RTM, (E)SPIE, (E)STAE, SDWA, RTM2WA, FRR, etc. We will also discuss common issues and "surprises" when dealing with recovery routines.
+
+This session is targeted primarily towards assembler programmers but it will also provide a refresher of z/OS ABEND processing and recovery concepts in general.
+
 # August 8, 2012
 
 ## [z/OS UNIX for all](Anaheim_Unix_for_all.pdf)
